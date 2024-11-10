@@ -24,6 +24,7 @@
     "@thirdweb-dev/react": "^4.9.4",
     "@tinymce/tinymce-react": "^5.1.1",
     "alchemy-sdk": "^3.4.3",
+    "axios": "^1.7.7",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "dotenv": "^16.4.5",
